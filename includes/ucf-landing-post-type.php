@@ -8,7 +8,7 @@ if ( ! class_exists( 'UCF_Landing_Page_PostType' ) ) {
 			$labels = array(
 				'singular' => 'Landing Page',
 				'plural'   => 'Landing Pages',
-				'slug'     => 'landing-page',
+				'slug'     => 'landing',
 				'rewrite'  => 'info'
 			),
 			$text_domain = 'ucf_landing_page';
