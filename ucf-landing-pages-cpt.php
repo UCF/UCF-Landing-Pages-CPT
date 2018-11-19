@@ -14,7 +14,7 @@ if ( ! defined( 'WPINC' ) ) {
 
 define( 'UCF_LANDING_PAGE__PLUGIN_FILE', __FILE__ );
 
-include_once 'includes/ucf-landing-page-post-type.php';
+include_once 'includes/ucf-landing-post-type.php';
 
 if ( ! function_exists( 'ucf_landing_page_on_activation' ) ) {
 	/**
