@@ -15,6 +15,10 @@ Head over to the [UCF Landing Pages Custom Post Type wiki](https://github.com/UC
 
 ## Changelog ##
 
+### 1.0.2 ###
+Enhancements:
+* Added composer file.
+
 ### 1.0.1 ###
 Documentation:
 * Updated contributing doc to reflect the switch from slack to teams.

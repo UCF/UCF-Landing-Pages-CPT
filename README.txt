@@ -1,8 +1,8 @@
 === UCF Landing Pages Custom Post Type ===
 Contributors: ucfwebcom
 Requires at least: 4.9.7
-Tested up to: 4.9.7
-Stable tag: 1.0.1
+Tested up to: 6.1
+Stable tag: 1.0.2
 Requires PHP: 5.4
 License: GPLv3 or later
 License URI: http://www.gnu.org/copyleft/gpl-3.0.html
@@ -21,6 +21,10 @@ Head over to the [UCF Landing Pages Custom Post Type wiki](https://github.com/UC
 
 
 == Changelog ==
+
+= 1.0.2 =
+Enhancements:
+* Added composer file.
 
 = 1.0.1 =
 Documentation:

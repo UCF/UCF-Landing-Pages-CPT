@@ -1,0 +1,8 @@
+{
+    "name": "ucf/ucf-landing-pages-cpt",
+    "description": "Provides a custom post type for landing pages.",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
